@@ -59,10 +59,12 @@ https://www.youtube.com/watch?v=SlQjk5VfuFY
 #### 3.1 Escalas e Modos
 - [ ] Pentatônica menor (essencial em blues)
 - [ ] Pentatônica maior
+- [ ] **Escala Maior Natural** - [Material de referência Music Clan](https://musicclan.com.br/blog/escala-maior-natural/)
 - [ ] Modo dórico (sonoridade blues)
 - [ ] Blues scale (nota adicional b5)
 - [ ] Modo mixolídio (tons country-blues)
 - **Objetivo**: Fluência em diferentes contextos tonais
+- **Nota**: A escala maior natural é a base para compreender todos os modos, incluindo os que John Mayer utiliza frequentemente
 
 #### 3.2 Frases Características
 - [ ] Estudar frases de John Mayer em seus solos
@@ -109,6 +111,9 @@ https://www.youtube.com/watch?v=SlQjk5VfuFY
 - Gravador de áudio (avaliar progresso)
 - Backing tracks YouTube (blues progressions)
 - Tablature (ultimate-guitar.com)
+
+#### Recursos Online
+- **Music Clan** - [Escala Maior Natural](https://musicclan.com.br/blog/escala-maior-natural/) (fundamentos teóricos essenciais)
 
 #### Estrutura Diária
 - **15 min**: Aquecimento e escalas
